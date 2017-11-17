@@ -1,0 +1,30 @@
+.et-wrapper.toast{
+  max-width: 100%;
+  border-radius: 3px;
+}
+
+.et-wrapper.toast-success{
+  color: $white;
+  background-color: $success;
+}
+
+.et-wrapper.toast-error{
+  color: $white;
+  background-color: $danger;
+}
+
+.et-wrapper.toast-info{
+  color: $white;
+  background-color: $info;
+}
+
+.et-wrapper.toast-warn{
+  color: $white;
+  background-color: $warning;
+}
+
+
+.et-wrapper.toast-bottom{
+  bottom: rem(70px) !important;
+  border-radius: 20px;
+}
